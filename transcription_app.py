@@ -10,7 +10,7 @@ app = Flask(_name_)
 app.config["UPLOAD_FOLDER"] = "static"
 
 # AssemblyAI API key
-aai.settings.api_key = "6018d32b8d544f4295a5de66ad74a9e8"
+aai.settings.api_key = "enter_your_api_key"
 
 # HTML template for the Flask interface
 html_template = '''
