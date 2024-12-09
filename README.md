@@ -1,4 +1,6 @@
 # Memory-Bridge-Connecting-Alzheimer-s-Patients-to-Their-Past
+Welcome to Memory Bridge, an innovative solution designed to help Alzheimer's patients reconnect with their cherished memories. By leveraging advanced Natural Language Processing (NLP) and Machine Learning (ML) technologies, Memory Bridge transforms daily audio recordings into accessible text and personalized stories.
+
 # Audio Transcription, PDF Story Generation, and Memory Bridge Repository
 
 This repository contains two projects:
