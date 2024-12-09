@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Whisper Transcription</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Whisper Transcription</h1>
+        <form action="/" method="post" enctype="multipart/form-data" class="mt-4">
+            <div class="form-group">
+                <label for="language">Language:</label>
+                <input type="text" class="form-control" id="language" name="language" required>
+            </div>
+            <div class="form-group">
+                <label for="file">Upload your audio file:</label>
+                <input type="file" class="form-control" id="file" name="file" accept="audio/*" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Transcribe</button>
+        </form>
+    </div>
+</body>
+</html>
