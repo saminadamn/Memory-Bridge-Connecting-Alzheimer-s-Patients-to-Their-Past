@@ -48,10 +48,6 @@ Ensure you have the following installed:
    ```
 3. Open your browser and visit `http://localhost:5000`.
 4. Upload your audio file and specify the language to receive transcription and download the PDF.
-5. 
-  ![WhatsApp Image 2024-12-10 at 12 34 07 AM](https://github.com/user-attachments/assets/8ef9b7bf-5747-448e-a598-d![WhatsApp Image 2024-12-10 at 12 34 44 AM](https://github.com/user-attachments/assets/11ebba5a-5ee8-41d6-bf9e-5761cb3a09dd)
-a09f955bcc9)
-
 
 
 
@@ -64,8 +60,6 @@ a09f955bcc9)
 3. Upload a PDF, ask a question, and receive a generated story with audio.
 Upload personalized content (e.g., old letters, photos, or recordings) to create stories. 
 Generate audio narrations to aid memory recollection and create a soothing, familiar experience.
-
-![WhatsApp Image 2024-12-10 at 12 33 48 AM](https://github.com/user-attachments/assets/3edfa88b-5623-466c-914f-f2b764b5cba3)
 
 #### How It Works
 The core of our system lies in generating personalized stories. Upon receiving a prompt, our system processes the patient's input, retrieves the relevant content from the saved PDFs, and constructs a narrative based on the extracted information. The Gemini model ensures the generated story is not only accurate but also engaging for the patient.
